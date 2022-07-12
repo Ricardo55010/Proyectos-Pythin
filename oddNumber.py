@@ -8,7 +8,7 @@ import sys
 
 if __name__ == '__main__':
     n = 20
-    if n%2 ==1:
+    if n%2 ==1: #condition to find wether it is odd or not
         print("Weird")
     else:
         if n>=2 and n<=5:
